@@ -1,1 +1,12 @@
-
+{
+  "messages": [
+    {
+      "attachment": {
+        "type": "file",
+        "payload": {
+          "url": "https://www.galiciaseguros.com.ar/Media/Default/Formularios/Vida%20Individual/Formulario%20Certificado%20de%20Intervenci%C3%B3n%20(Intervenci%C3%B3n%20Quir%C3%BArgica).pdf"
+        }
+      }
+    }
+  ]
+}
