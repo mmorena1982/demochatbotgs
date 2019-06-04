@@ -1,12 +1,18 @@
 {
-  "messages": [
+  "statusCode": 200,
+  "body": [
     {
-      "attachment": {
-        "type": "file",
-        "payload": {
-          "url": "https://galiciaseguros.com.ar/Media/Default/Formularios/Vida%20Individual/Formulario%20Declaracion%20Jurada%20de%20Salud-Seguro%20de%20Vida.pdf"
-        }
-      }
+      "date": "20190814",
+      "name": "Maximiliano Morena"
+    },
+    {
+      "date": "20190814",
+      "name": "Gustavo Acevedo"
+    },
+    {
+      "date": "20190816",
+      "name": "Vanesa Guccione"
     }
-  ]
+  ],
+  "headers": {}
 }
